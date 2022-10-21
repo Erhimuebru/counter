@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+padding: 0;
+}
+.container{
+    
+    padding-top: 3rem;
+    padding-left: 15rem;
+}
+h1{
+    font-size: 5rem;
+    font-weight: 900;
+    padding-bottom: .5rem;
+    padding-left: 18rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span{
+    padding-left: 26rem;
+    padding-top: .5rem;
+    font-size: 10rem;
+}
+.btn-container{
+    padding-top: 2rem;
+    padding-left: 26rem;
+    align-items: center;
+
+
+}
+.btn{
+    font-size: 3rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color:black;
+    color: white;
+}
